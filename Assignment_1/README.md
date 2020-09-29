@@ -2,7 +2,7 @@
 
 | Tasks |
 | ----------- |
-| Task 1: Basic Operation on Images - Number Display |
-| Task 2: Image resizing (Upsampling / Downsampling) |
-| Task 3: Quantization |
-| Task 4: Bonus Question |
+| Task_1: Basic Operation on Images - Number Display |
+| Task_2: Image resizing (Upsampling / Downsampling) |
+| Task_3: Quantization |
+| Task_4: Bonus Question |
