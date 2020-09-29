@@ -1,6 +1,6 @@
 # ASSIGNMENT 1 IMAGE PROCESSING
 
-| Task No. |
+| Tasks |
 | ----------- |
 | Task 1: Basic Operation on Images - Number Display |
 | Task 2: Image resizing (Upsampling / Downsampling) |
