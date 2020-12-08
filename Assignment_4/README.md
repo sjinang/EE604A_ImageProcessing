@@ -5,4 +5,4 @@
 | Task 1: Image Compression: JPEG |
 | Task 2: Image Compression: SVD |
 | Task 3: Morphological Edge Detector |
-| Task 4_Bonus: Video Stabilisation |
+| Task 4_Bonus: Video Stabilization |
